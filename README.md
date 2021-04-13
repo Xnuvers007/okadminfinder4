@@ -1,3 +1,15 @@
+# Recode/Rewrite
+
+Rewrite because the owner disabled upload
+
+rewrite :
+
+1. User Agents 1000+
+
+2. Admin panel 1k+
+
+#----------
+
 ![](./Classes/okadminfinder3-.svg)
 <p align="center">
   <a href="https://www.buymeacoffee.com/michyamrane" target="_blank">
