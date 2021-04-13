@@ -50,8 +50,8 @@ rewrite :
 
     * #### Linux
        ```
-       git clone https://github.com/mIcHyAmRaNe/okadminfinder3.git
-       cd okadminfinder3
+       git clone https://github.com/Xnuvers007/okadminfinder4
+       cd okadminfinder4
        chmod +x okadminfinder.py
        python3 okadminfinder.py
        ```
@@ -80,7 +80,7 @@ rewrite :
 
 ## Youtube videos
 - [okadminfinder : admin page finder](https://youtu.be/DluCL4aA9UU/)
-- [okadminfinder3 : admin page finder (update)](https://youtu.be/iJg4NJT5qkY/)
+- [okadminfinder4 : admin page finder (update)](https://youtu.be/iJg4NJT5qkY/)
 - [admin panel finder Kali Linux 2018.3](https://youtu.be/kY9KeDqY5QQ)
 
 ## Most Blogs that shared okadminfinder
