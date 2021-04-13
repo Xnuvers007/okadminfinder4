@@ -8,6 +8,8 @@ rewrite :
 
 2. Admin panel 1k+
 
+My YouTube = https://www.youtube.com/channel/UCqmsJTrSUiP14M9rrhS3jYg
+
 # ----------
 
 ![](./Classes/Screenshot_1.png)
@@ -57,10 +59,10 @@ rewrite :
        ```
 
     * #### Windows
-       download & extract [zip](https://github.com/mIcHyAmRaNe/okadminfinder3/archive/master.zip)
+       download & extract [zip](https://github.com/Xnuvers007/okadminfinder4/archive/refs/tags/v2.6.0.zip)
        ```
-       cd okadminfinder3
-       py -3 okadminfinder.py
+       cd okadminfinder4
+       py -3 okadminfinder.py / python.exe okadminfinder.py -u (url)
        ```
 
     * #### [Pentestbox](https://pentestbox.com) (same procedure as Linux)
